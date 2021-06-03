@@ -1,0 +1,17 @@
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\AutomationFootshop.dll
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\AutomationFootshop.pdb
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\WebDriver.dll
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\WebDriver.xml
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\obj\Debug\AutomationFootshop.csproj.CoreCompileInputs.cache
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\obj\Debug\AutomationFootshop.csproj.CopyComplete
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\obj\Debug\AutomationFootshop.dll
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\obj\Debug\AutomationFootshop.pdb
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\obj\Debug\AutomationFootshop.csprojAssemblyReference.cache
+E:\MASTER\ANUL I\SEM2\Testare\AutomationSolutionFootshop\AutomationSolutionFootshop\AutomationFootshop\bin\Debug\SeleniumExtras.WaitHelpers.dll
